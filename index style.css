@@ -1,0 +1,42 @@
+li{
+
+  float: left;
+ 
+  }
+
+li a{
+
+    margin-top:14px;
+    margin-bottom:14px;
+    margin-left:16px;
+    margin-right:16px;
+    text-decoration: none;
+    color: black;
+    display: block;
+
+    }  
+
+li a:hover{
+
+          background-color: white;
+          
+
+          }    
+
+ul{
+
+  list-style-type: none;
+  overflow: hidden;
+  background-color: red;
+  margin: 0px;
+  
+  }
+  
+body{
+
+    margin: 0%;
+
+    }  
+
+  
+   
