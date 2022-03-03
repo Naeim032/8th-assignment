@@ -1,0 +1,26 @@
+input:focus{
+
+           color: rgb(34, 196, 13);
+           font-size:30px;
+           font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+           } 
+
+#new:hover{
+
+    color: rgb(12, 211, 112);
+
+
+    } 
+    
+form:hover{
+ 
+          background-color: rgb(218, 54, 4);    
+          
+          } 
+          
+body{
+
+    margin: 0%;
+
+    }          
